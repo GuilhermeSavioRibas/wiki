@@ -6,7 +6,7 @@ Encontre aqui referências de aprendizado em programação mobile com python:
 
 ## Kivy
 
-[Kivy](https://kivy.org/#home) é uma biblioteca para o desenvolvimento de software com código-fonte aberto, voltado ao rápido desenvolvimento de aplicações que utilizam novas interfaces de usuário, e projetada para também ser utilizada na como aplicações que serão executadas em dispositivos multi-touch.
+[Kivy](https://kivy.org/#home) é uma biblioteca para o desenvolvimento de software com código-fonte aberto, voltado ao rápido desenvolvimento de aplicações que utilizam novas interfaces de usuário, e projetada para também ser utilizada como aplicações que serão executadas em dispositivos multi-touch.
 
 #### Documentação
 
